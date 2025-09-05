@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```Centurion (Garganacl) @ Leftovers  
+Ability: Purifying Salt  
+Tera Type: Electric  
+EVs: 252 HP / 4 Def / 252 SpD  
+Relaxed Nature  
+IVs: 0 Spe  
+- Salt Cure  
+- Iron Defense  
+- Recover  
+- Substitute```
