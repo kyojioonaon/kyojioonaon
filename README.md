@@ -1,4 +1,5 @@
-```kyojioonaon (Garganacl) @ Leftovers  
+```
+kyojioonaon (Garganacl) @ Leftovers  
 Ability: Purifying Salt  
 Tera Type: Electric  
 EVs: 252 HP / 4 Def / 252 SpD  
